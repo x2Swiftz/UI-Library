@@ -9,6 +9,12 @@
 
 ![image](https://user-images.githubusercontent.com/52291809/208847767-27008fa0-d140-435b-a575-264d4448d9e8.png)
 
+# [Sea Hub](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Sea%20Hub%20-%20Example.lua)
+
+Old UI
+
+![image](https://user-images.githubusercontent.com/52291809/208854362-86b669df-ebb0-4031-945b-ad39e9aa4453.png)
+
 # [Solaris](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Solaris%20-%20Example.lua)
 
 ![image](https://user-images.githubusercontent.com/52291809/208848208-03665de0-aa41-4d6a-8419-efdd975a7753.png)
@@ -43,7 +49,6 @@ Showcase: https://youtu.be/bCRsS42AUYw
 # [Venyx](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Venyx%20-%20Example.lua)
 
 ![image](https://user-images.githubusercontent.com/52291809/208849651-c939b7c4-7524-4c29-81ce-7f9818ec8d5e.png)
-
 
 
 # [Ocerium](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Ocerium%20-%20Example.lua)
