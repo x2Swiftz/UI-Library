@@ -69,3 +69,6 @@ Showcase: https://youtu.be/ZeOFJvqhyMs
 
 ![image](https://user-images.githubusercontent.com/52291809/208851635-d953463e-1c06-4292-8994-1280b3a3f5a1.png)
 
+# [Polar UI](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Polar%20-%20Example.lua)
+
+![image](https://user-images.githubusercontent.com/52291809/208852109-5c07216d-655f-4ee2-934d-084afa5b175d.png)
