@@ -72,3 +72,11 @@ Showcase: https://youtu.be/ZeOFJvqhyMs
 # [Polar UI](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Polar%20-%20Example.lua)
 
 ![image](https://user-images.githubusercontent.com/52291809/208852109-5c07216d-655f-4ee2-934d-084afa5b175d.png)
+
+# [Wally V3](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Wally%20V3%20-%20Example.lua)
+
+![image](https://user-images.githubusercontent.com/52291809/208852661-4fdf7377-e265-404c-9087-833288efa02d.png)
+
+# [Xanax UI](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Xanax%20-%20Example.lua)
+
+![image](https://user-images.githubusercontent.com/52291809/208852875-6cb5c4e7-e09f-4bc0-9bbd-848ac894602e.png)
