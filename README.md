@@ -31,4 +31,6 @@
 
 [Venyx](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Venyx%20-%20Example.lua)
 
+Showcase : https://youtu.be/ZeOFJvqhyMs
+
 ![image](https://user-images.githubusercontent.com/52291809/208849651-c939b7c4-7524-4c29-81ce-7f9818ec8d5e.png)
