@@ -27,4 +27,4 @@
 
 # [Mercury](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Mercury%20-%20Example.lua)
 
-![image](https://user-images.githubusercontent.com/52291809/208849158-f79c8d1e-5954-4bca-b3eb-3e5cde9ba114.png)
+![image](https://user-images.githubusercontent.com/52291809/208849259-26e99d77-0468-478f-a207-ac0a8f9c1377.png)
