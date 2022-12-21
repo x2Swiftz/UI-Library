@@ -84,3 +84,8 @@ Showcase: https://youtu.be/ZeOFJvqhyMs
 # [Xanax UI](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Xanax%20-%20Example.lua)
 
 ![image](https://user-images.githubusercontent.com/52291809/208852875-6cb5c4e7-e09f-4bc0-9bbd-848ac894602e.png)
+
+# [PlayStations](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/PlayStations%20-%20Example.lua)
+
+![image](https://user-images.githubusercontent.com/52291809/208853810-42419826-ac4d-4f24-a0c8-6a3f2f40cc3a.png)
+
