@@ -6,4 +6,4 @@
 
 # [Pepsi's](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Pepsi%20-%20Example.lua)
 
-![image](https://user-images.githubusercontent.com/52291809/208846518-b942ccfe-005d-4ef4-83f9-4945d76208ee.png)
+![image](https://user-images.githubusercontent.com/52291809/208847767-27008fa0-d140-435b-a575-264d4448d9e8.png)
