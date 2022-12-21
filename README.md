@@ -11,4 +11,4 @@
 
 # [Solaris](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Solaris%20-%20Example.lua)
 
-![image](https://user-images.githubusercontent.com/52291809/208848115-0bc27369-8ca7-4cf2-ab4d-eea37ffbd44e.png)
+![image](https://user-images.githubusercontent.com/52291809/208848208-03665de0-aa41-4d6a-8419-efdd975a7753.png)
