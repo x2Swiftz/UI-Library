@@ -57,3 +57,15 @@ Showcase: https://youtu.be/ZeOFJvqhyMs
 
 ![image](https://user-images.githubusercontent.com/52291809/208851233-721e7ac1-47b4-4e8d-ba82-1b8d5a96f123.png)
 
+# [Linoria Rewrite](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Linoria%20-%20Example.lua)
+
+![image](https://user-images.githubusercontent.com/52291809/208851470-7803c67a-b76d-40e0-903f-14999593bf62.png)
+
+# [uwuware 2.x](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/uwuware%20(2.x)%20-%20Library.lua)
+
+![image](https://user-images.githubusercontent.com/52291809/208851553-f2687993-7843-4206-b92b-5da626473157.png)
+
+# [uwuware (wally)](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/uwuware%20(wally)%20-%20Library.lua)
+
+![image](https://user-images.githubusercontent.com/52291809/208851635-d953463e-1c06-4292-8994-1280b3a3f5a1.png)
+
