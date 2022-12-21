@@ -25,6 +25,8 @@
 
 # [Vape](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/vape%20-%20Example.lua)
 
+Showcase: https://youtu.be/bCRsS42AUYw
+
 ![image](https://user-images.githubusercontent.com/52291809/208848764-06467b38-ea59-44eb-a179-2c121bafae32.png)
 
 # [Mercury](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Mercury%20-%20Example.lua)
@@ -42,7 +44,11 @@
 
 # [Ocerium](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Ocerium%20-%20Example.lua)
 
-Showcase : https://youtu.be/ZeOFJvqhyMs
+Showcase: https://youtu.be/ZeOFJvqhyMs
 
 ![image](https://user-images.githubusercontent.com/52291809/208850692-f88240d5-c07d-486e-8566-1314aacffa87.png)
 
+
+# [Xenon](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Xenon%20-%20Example.lua)
+
+![image](https://user-images.githubusercontent.com/52291809/208850978-a7b38607-87fe-45af-82da-4549c9baa065.png)
