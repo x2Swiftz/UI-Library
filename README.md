@@ -20,3 +20,11 @@
 # [Flux ตำนาน UI Xenon อันแรก 555](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Flux%20-%20Example.lua)
 
 ![image](https://user-images.githubusercontent.com/52291809/208848401-9e828258-7dfc-4999-8c1a-13498e03eef4.png)
+
+# [Vape](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/vape%20-%20Example.lua)
+
+![image](https://user-images.githubusercontent.com/52291809/208848764-06467b38-ea59-44eb-a179-2c121bafae32.png)
+
+# [Mercury](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Mercury%20-%20Example.lua)
+
+![image](https://user-images.githubusercontent.com/52291809/208849158-f79c8d1e-5954-4bca-b3eb-3e5cde9ba114.png)
