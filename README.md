@@ -17,6 +17,10 @@
 
 ![image](https://user-images.githubusercontent.com/52291809/208848287-578cc12a-53d7-47a6-bf87-6208d5a3f568.png)
 
+# [Discord UI](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Discord%20-%20Example.lua)
+
+![image](https://user-images.githubusercontent.com/52291809/208853495-5662e869-7179-44fb-b903-be161e275577.png)
+
 # [Flux](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Flux%20-%20Example.lua)
 
 ตำนาน UI Xenon อันแรก 555
