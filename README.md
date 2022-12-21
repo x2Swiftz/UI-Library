@@ -44,6 +44,5 @@
 
 Showcase : https://youtu.be/ZeOFJvqhyMs
 
-![image](https://user-images.githubusercontent.com/52291809/208850415-642e06a6-1fa2-4929-820a-fb9b906e7695.png)
-
+![image](https://user-images.githubusercontent.com/52291809/208850692-f88240d5-c07d-486e-8566-1314aacffa87.png)
 
