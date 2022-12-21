@@ -52,3 +52,8 @@ Showcase: https://youtu.be/ZeOFJvqhyMs
 # [Xenon](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Xenon%20-%20Example.lua)
 
 ![image](https://user-images.githubusercontent.com/52291809/208850978-a7b38607-87fe-45af-82da-4549c9baa065.png)
+
+# [Orion](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Orion%20-%20Example.lua)
+
+![image](https://user-images.githubusercontent.com/52291809/208851233-721e7ac1-47b4-4e8d-ba82-1b8d5a96f123.png)
+
