@@ -11,9 +11,13 @@ Lastest Update: 11/06/2024
 
 # [Fluent UI](https://raw.githubusercontent.com/x2Swiftz/UI-Library/main/Libraries/FluentUI-Example.lua)
 
+ไม่ใช่อันเดียวดับ Xenon Hub นะครับ แค่เหมือน แต่เราก็ก็อปเอาไปทำ Custom เองต่อให้ดีกว่าเดิม 🤣
+
 ![image](https://github.com/x2Swiftz/UI-Library/assets/52291809/bd3568ba-4441-46cc-b57d-9e9a721266b7)
 
 # [Rayfield](https://raw.githubusercontent.com/x2Swiftz/UI-Library/main/Libraries/Rayfield%20-%20Library.lua)
+
+มี UI Key System ด้วย โคตรเท่่ แนะนำเลย มือถือก็ใช้ได้ชิลๆนะ
 
 ![image](https://github.com/x2Swiftz/UI-Library/assets/52291809/bb07945d-d339-4fff-9fc3-2529fa05b0f1)
 
