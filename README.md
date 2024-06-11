@@ -11,7 +11,7 @@ Lastest Update: 11/06/2024
 
 # [Fluent UI](https://raw.githubusercontent.com/x2Swiftz/UI-Library/main/Libraries/FluentUI-Example.lua)
 
-![image](https://github.com/x2Swiftz/UI-Library/assets/52291809/69547d31-ea1d-421e-848e-e67198305210)
+![image](https://github.com/x2Swiftz/UI-Library/assets/52291809/bd3568ba-4441-46cc-b57d-9e9a721266b7)
 
 # [Rayfield](https://raw.githubusercontent.com/x2Swiftz/UI-Library/main/Libraries/Rayfield%20-%20Library.lua)
 
