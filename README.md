@@ -1,9 +1,17 @@
-# UI-Library แจกฟรีโดย x2Swiftz#9999 - Xenon Hub
+# UI-Library แจกฟรีโดย x2Swiftz#9999 - Xenon Hub 
 
 ผมเห็นว่าหลายๆ Hub ใช้แต่ UI เดิมๆไม่ก็ซ้ำๆกันเยอะจึงนำมาแจกให้หลายๆท่านได้ลองใช้ UI พวกนี้กัน
 ของฟรีทั้งหมด บางอย่างเจ้าของ UI อยากแจกเอง ไม่ก็ Source Code หลุดแล้วมีคน Save File ไว้
 
-// มีไฟล์ตัวอย่าง "Example.lua" ให้ทุก UI สามารถศึกษาได้ด้วยตัวเอง 
+https://discord.gg/xenonhub
+
+Lastest Update: 11/06/2024
+
+// มีไฟล์ตัวอย่าง "Example.lua" ให้ทุก UI สามารถศึกษาได้ด้วยตัวเอง //
+
+# [Fluent UI](https://raw.githubusercontent.com/x2Swiftz/UI-Library/main/Libraries/FluentUI-Example.lua)
+
+![image](https://github.com/x2Swiftz/UI-Library/assets/52291809/69547d31-ea1d-421e-848e-e67198305210)
 
 # [Pepsi UI](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Pepsi%20-%20Example.lua)
 
