@@ -129,3 +129,8 @@ Showcase : https://youtu.be/rk2PsxpSwT4
 Showcase : https://youtu.be/FcVXVaTPqNY
 
 ![image](https://github.com/user-attachments/assets/76ffcd08-156b-4a41-8a6c-00920d2239f8)
+
+# [Leny](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Leny%20-%20Example.lua)
+
+![image](https://github.com/user-attachments/assets/2b6a94a9-8a34-4997-be01-a6dee1e2dd2e)
+
