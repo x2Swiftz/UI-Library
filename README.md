@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b17162c3-374a-4bee-87ff-d2faf2c227d7)# UI-Library แจกฟรีโดย x2Swiftz#9999 - Xenon Hub 
+# UI-Library แจกฟรีโดย x2Swiftz#9999 - Xenon Hub 
 
 ผมเห็นว่าหลายๆ Hub ใช้แต่ UI เดิมๆไม่ก็ซ้ำๆกันเยอะจึงนำมาแจกให้หลายๆท่านได้ลองใช้ UI พวกนี้กัน
 ของฟรีทั้งหมด บางอย่างเจ้าของ UI อยากแจกเอง ไม่ก็ Source Code หลุดแล้วมีคน Save File ไว้
@@ -124,7 +124,7 @@ Showcase : https://youtu.be/rk2PsxpSwT4
 
 ![image](https://github.com/user-attachments/assets/289b3727-5b2f-47f4-aafe-731ddcb99183)
 
-# [Linui]()
+# [Linui](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Linui%20-%20Example.lua)
 
 Showcase : https://youtu.be/FcVXVaTPqNY
 
