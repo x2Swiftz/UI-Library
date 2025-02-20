@@ -113,3 +113,9 @@ Showcase: https://youtu.be/ZeOFJvqhyMs
 # [Lime UI](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Lime%20-%20Example.lua)
 
 ![image](https://user-images.githubusercontent.com/52291809/208855109-4c21d78c-100b-43c2-9f42-dcecb781f2cd.png)
+
+# [ReGUI](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/ReGUI%20-%20Example.lua)
+
+![image](https://github.com/user-attachments/assets/adc363e7-112b-4196-bd7f-10d0a9677607)
+
+![image](https://github.com/user-attachments/assets/43a9549d-2b17-4890-a7dc-28ed1dbb08f2)
