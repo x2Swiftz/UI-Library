@@ -144,4 +144,8 @@ Showcase : https://youtu.be/FcVXVaTPqNY
 
 ![image](https://github.com/user-attachments/assets/86587b43-8fbe-47c7-b731-955006d8a309)
 
+# [Obsidian](https://raw.githubusercontent.com/x2Swiftz/UI-Library/refs/heads/main/Libraries/Obsidan%20-%20Example.lua)
+
+![image](https://github.com/user-attachments/assets/ce0cc796-0ba9-40d4-8dfa-344e6d229071)
+
 
