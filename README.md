@@ -140,3 +140,8 @@ Showcase : https://youtu.be/FcVXVaTPqNY
 
 ![image](https://github.com/user-attachments/assets/2b6a94a9-8a34-4997-be01-a6dee1e2dd2e)
 
+# [Darius](https://raw.githubusercontent.com/x2Swiftz/UI-Library/refs/heads/main/Libraries/Darius%20-%20Example%20.lua)
+
+![image](https://github.com/user-attachments/assets/86587b43-8fbe-47c7-b731-955006d8a309)
+
+
