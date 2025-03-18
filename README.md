@@ -116,7 +116,11 @@ Showcase: https://youtu.be/ZeOFJvqhyMs
 
 # [ReGUI](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/ReGUI%20-%20Example.lua)
 
+Demo Place: https://www.roblox.com/games/136436665525145/ReGui-Demo
+Documentation: https://depso.gitbook.io/regui
 Showcase : https://youtu.be/rk2PsxpSwT4
+
+![image](https://github.com/user-attachments/assets/eda78d44-b036-4337-b524-2afa8ac7d601)
 
 ![image](https://github.com/user-attachments/assets/adc363e7-112b-4196-bd7f-10d0a9677607)
 
