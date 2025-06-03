@@ -149,4 +149,8 @@ Showcase : https://youtu.be/FcVXVaTPqNY
 
 ![image](https://github.com/user-attachments/assets/ce0cc796-0ba9-40d4-8dfa-344e6d229071)
 
+# [PRIV9](https://raw.githubusercontent.com/x2Swiftz/UI-Library/refs/heads/main/Libraries/PRIV9%20-%20Example.lua)
+
+![1748888283816](https://github.com/user-attachments/assets/12b4202b-128d-4f25-bab9-753868d63651)
+
 
