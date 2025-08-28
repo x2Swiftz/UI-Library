@@ -26,11 +26,24 @@
 
 ![image](https://user-images.githubusercontent.com/52291809/208847767-27008fa0-d140-435b-a575-264d4448d9e8.png)
 
-# [Sea Hub](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Sea%20Hub%20-%20Example.lua)
+# [Maclib UI](https://raw.githubusercontent.com/x2Swiftz/UI-Library/refs/heads/main/Libraries/Maclib%20-%20Library.lua)
 
-Old UI
+Beautiful Interface
+Experience a sleek, modern interface inspired by macOS with Maclib’s UI, designed to provide a clean and clutter-free space for effortless customization.
 
-![image](https://user-images.githubusercontent.com/52291809/208854362-86b669df-ebb0-4031-945b-ad39e9aa4453.png)
+Consistent Updates
+Maclib is constantly updated to provide a robust and adaptable framework, ensuring your project stays ahead of the curve and ready for future enhancements.
+
+Innovative Features
+Maclib provides a multitude of innovative features that streamline the development process and elevate the user experience, blending efficiency with elegance to transform your projects.
+
+<img width="1210" height="867" alt="image" src="https://github.com/user-attachments/assets/68291991-9684-4880-95ed-874af675d85d" />
+
+# [Void UI](https://raw.githubusercontent.com/x2Swiftz/UI-Library/refs/heads/main/Libraries/PRIV9%20-%20Example.lua)
+
+Drawing and Open Source
+
+<img width="590" height="641" alt="183229103-0fa28bc3-19b3-41fa-aa68-d2427bc20ed7" src="https://github.com/user-attachments/assets/4e56663c-90d8-4bb1-b67d-b22451ab7098" />
 
 # [Solaris](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Solaris%20-%20Example.lua)
 
@@ -153,9 +166,7 @@ Showcase : https://youtu.be/FcVXVaTPqNY
 
 ![1748888283816](https://github.com/user-attachments/assets/12b4202b-128d-4f25-bab9-753868d63651)
 
-# [COMING SOON](https://raw.githubusercontent.com/x2Swiftz/UI-Library/refs/heads/main/Libraries/PRIV9%20-%20Example.lua)
 
-<img width="590" height="641" alt="183229103-0fa28bc3-19b3-41fa-aa68-d2427bc20ed7" src="https://github.com/user-attachments/assets/4e56663c-90d8-4bb1-b67d-b22451ab7098" />
 
 # [COMING SOON](https://raw.githubusercontent.com/x2Swiftz/UI-Library/refs/heads/main/Libraries/PRIV9%20-%20Example.lua)
 
@@ -172,6 +183,12 @@ Showcase : https://youtu.be/FcVXVaTPqNY
 # [COMING SOON](https://raw.githubusercontent.com/x2Swiftz/UI-Library/refs/heads/main/Libraries/PRIV9%20-%20Example.lua)
 
 <img width="621" height="501" alt="457622500-b1c3a6d2-ef1f-42eb-91fe-cbdc2ce17721" src="https://github.com/user-attachments/assets/2e419f51-4305-4be4-955e-ef75be85b183" />
+
+# [Sea Hub](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Sea%20Hub%20-%20Example.lua)
+
+Old UI
+
+![image](https://user-images.githubusercontent.com/52291809/208854362-86b669df-ebb0-4031-945b-ad39e9aa4453.png)
 
 
 
