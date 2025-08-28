@@ -37,11 +37,13 @@ Maclib is constantly updated to provide a robust and adaptable framework, ensuri
 Innovative Features
 Maclib provides a multitude of innovative features that streamline the development process and elevate the user experience, blending efficiency with elegance to transform your projects.
 
-<img width="1210" height="867" alt="image" src="https://github.com/user-attachments/assets/68291991-9684-4880-95ed-874af675d85d" />
+<img width="889" height="672" alt="Screenshot 2025-08-29 021811" src="https://github.com/user-attachments/assets/2d96552b-baee-4c49-927d-ebe0e1f7f908" />
 
 # [Void UI](https://raw.githubusercontent.com/x2Swiftz/UI-Library/refs/heads/main/Libraries/Void%20-%20Library.lua)
 
 Drawing and Open Source
+
+- 📄 Document: https://brady-xyz.gitbook.io/maclib-ui-library/information/documentation-formatting
 
 <img width="590" height="641" alt="183229103-0fa28bc3-19b3-41fa-aa68-d2427bc20ed7" src="https://github.com/user-attachments/assets/4e56663c-90d8-4bb1-b67d-b22451ab7098" />
 
@@ -49,8 +51,15 @@ Drawing and Open Source
 
 - 📄 Document: https://github.com/3345-c-a-t-s-u-s/NOTHING
 
-<img width="627" height="422" alt="Screenshot 2025-08-29 021349" src="https://github.com/user-attachments/assets/36d42413-9770-4102-aff8-67ed69243cd7" />
+<img width="627" height="422" alt="Screenshot 2025-08-29 021349" src="https://github.com/user-attachments/assets/36d42413-9770-4102-aff8-67ed69243cd7" />\
 
+# [CompKiller UI](https://raw.githubusercontent.com/x2Swiftz/UI-Library/refs/heads/main/Libraries/CompKiller%20-%20Library.lua)
+
+<img width="621" height="501" alt="457622500-b1c3a6d2-ef1f-42eb-91fe-cbdc2ce17721" src="https://github.com/user-attachments/assets/2e419f51-4305-4be4-955e-ef75be85b183" />
+
+# [Dummy UI](https://raw.githubusercontent.com/x2Swiftz/UI-Library/refs/heads/main/Libraries/Dummy%20-%20Example.lua)
+
+<img width="475" height="375" alt="Screenshot 2025-08-29 022450" src="https://github.com/user-attachments/assets/5a2c887e-a10b-4d8c-82b4-9a651491e0fe" />
 
 # [Solaris](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Solaris%20-%20Example.lua)
 
@@ -187,9 +196,6 @@ Showcase : https://youtu.be/FcVXVaTPqNY
 
 <img width="904" height="601" alt="1755003389140" src="https://github.com/user-attachments/assets/2cff4fd8-045b-4f9b-9cd3-f3a3626ed93c" />
 
-# [COMING SOON](https://raw.githubusercontent.com/x2Swiftz/UI-Library/refs/heads/main/Libraries/PRIV9%20-%20Example.lua)
-
-<img width="621" height="501" alt="457622500-b1c3a6d2-ef1f-42eb-91fe-cbdc2ce17721" src="https://github.com/user-attachments/assets/2e419f51-4305-4be4-955e-ef75be85b183" />
 
 # [Sea Hub](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Sea%20Hub%20-%20Example.lua)
 
