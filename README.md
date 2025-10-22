@@ -197,12 +197,10 @@ Showcase : https://youtu.be/FcVXVaTPqNY
 
 <img width="904" height="601" alt="1755003389140" src="https://github.com/user-attachments/assets/2cff4fd8-045b-4f9b-9cd3-f3a3626ed93c" />
 
+# [Scoot UI](https://raw.githubusercontent.com/x2Swiftz/UI-Library/refs/heads/main/Libraries/Scoot%20UI%20-%20Example.lua)
 
-# [Sea Hub](https://github.com/x2Swiftz/UI-Library/blob/main/Libraries/Sea%20Hub%20-%20Example.lua)
+<img width="1088" height="614" alt="image" src="https://github.com/user-attachments/assets/f19386ef-1c70-4dff-87c8-00028add550f" />
 
-Old UI
-
-![image](https://user-images.githubusercontent.com/52291809/208854362-86b669df-ebb0-4031-945b-ad39e9aa4453.png)
 
 
 
