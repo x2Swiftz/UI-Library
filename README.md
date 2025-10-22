@@ -5,15 +5,12 @@
 
 - https://discord.gg/xenonhub
 - https://discord.gg/kirito
-- https://discord.gg/x2swiftz
 
-📅 Lastest Updated: 29/08/2025
-
-// มีไฟล์ตัวอย่าง "Example.lua" ให้ทุก UI สามารถศึกษาได้ด้วยตัวเอง //
+// มีไฟล์ตัวอย่าง "Example.lua" ให้ทุก UI ลองอ่านแล้วทำความเข้าใจดู //
 
 # [Fluent UI](https://raw.githubusercontent.com/x2Swiftz/UI-Library/main/Libraries/FluentUI-Example.lua)
 
-ไม่ใช่อันเดียวดับ Xenon Hub นะครับ แค่เหมือน แต่เราก็ก็อปเอาไปทำ Custom เองต่อให้ดีกว่าเดิม 🤣
+ไม่ใช่อันเดียวดับ Xenon Hub นะครับ แค่เหมือน แต่เราเอามาทำต่อให้ดีกว่าเดิมเฉยๆ 🤣
 
 ![image](https://github.com/x2Swiftz/UI-Library/assets/52291809/bd3568ba-4441-46cc-b57d-9e9a721266b7)
 
@@ -198,6 +195,8 @@ Showcase : https://youtu.be/FcVXVaTPqNY
 <img width="904" height="601" alt="1755003389140" src="https://github.com/user-attachments/assets/2cff4fd8-045b-4f9b-9cd3-f3a3626ed93c" />
 
 # [Scoot UI](https://raw.githubusercontent.com/x2Swiftz/UI-Library/refs/heads/main/Libraries/Scoot%20UI%20-%20Example.lua)
+
+✅ มือถือก็รองรับนะจ้ะ
 
 <img width="1088" height="614" alt="image" src="https://github.com/user-attachments/assets/f19386ef-1c70-4dff-87c8-00028add550f" />
 
